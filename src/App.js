@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    TODO LIST
+                    TODO LIST (Cheikh Amala THIAM)
                 </Row>
   
                 <hr />
